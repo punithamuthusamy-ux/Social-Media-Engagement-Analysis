@@ -116,6 +116,7 @@ Social Media Dataset (DataFrame)
 ### 📱 Device-Based Insights
 
 📌 Engagement varies significantly by device type.
+
 Mobile users show different interaction patterns compared to desktop users.
 
 ---
@@ -129,7 +130,9 @@ Mobile users show different interaction patterns compared to desktop users.
 ### 📈 Distribution Analysis
 
 ✔ Histograms revealed uneven engagement spread
+
 ✔ Boxplots highlighted presence of outliers
+
 ✔ Swarm plots showed comparative engagement behaviour across devices
 
 ---
@@ -137,7 +140,9 @@ Mobile users show different interaction patterns compared to desktop users.
 ### 🧠 Behavioural Patterns
 
 ✔ Engagement is not uniform across platforms
+
 ✔ Time-based trends indicate fluctuations in user activity
+
 ✔ Data cleaning improved analytical accuracy and reliability
 
 ---
@@ -147,23 +152,29 @@ Mobile users show different interaction patterns compared to desktop users.
 ### 📊 Descriptive
 
 ✔ Engagement differs by device and category
+
 ✔ Likes and shares show wide distribution
 
 ### 🔍 Diagnostic
 
 ⚠ Variations suggest platform and device influence
+
 ⚠ Outliers point to viral or underperforming posts
 
 ### 🔮 Predictive
 
 📈 Popular categories likely to continue driving engagement
+
 📌 Mobile usage trends may increase future interaction volume
 
 ### 📝 Prescriptive
 
 * ⚡ Optimise content for **high-performing categories**
+ 
 * 📱 Design campaigns based on **device usage patterns**
+ 
 * 📊 Monitor outliers to identify viral opportunities
+ 
 * 🧠 Add **sentiment analysis** for deeper audience understanding
 
 ---
@@ -171,8 +182,11 @@ Mobile users show different interaction patterns compared to desktop users.
 ## 🔚 10. Conclusion
 
 ✔ Built a complete **Python-based social media engagement analysis system**
+
 ✔ Achieved **structured data cleaning & exploration**
+
 ✔ Discovered **device-wise and category-wise patterns**
+
 ✔ Enabled **data-driven digital strategy planning**
 
 ---
@@ -180,9 +194,13 @@ Mobile users show different interaction patterns compared to desktop users.
 ## 🚀 11. Future Enhancements
 
 * 📈 Sentiment analysis on comments
+  
 * 🕒 Time-series forecasting
+  
 * 🗄️ Database integration
+  
 * 📊 Interactive dashboards (Power BI / Tableau)
+  
 * 🤖 Machine learning for engagement prediction
 
 ---
